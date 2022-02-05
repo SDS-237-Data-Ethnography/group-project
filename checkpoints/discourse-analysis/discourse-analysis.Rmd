@@ -59,8 +59,3 @@ So while the data is often cast in a revelatory way, it is also critiqued for it
 > FILL ME
 
 
-
-# Part 3: Bonus! (Optional) Display the text of the articles in a word cloud below. 
-
-
-
