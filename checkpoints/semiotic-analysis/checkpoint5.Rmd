@@ -1,11 +1,12 @@
 ---
-title: 'SDS 237: Final Project Checkpoint 5 - Semiotic Analysis'
+title: 'Semiotic Analysis'
+subtitle: 'SDS 237: Final Project Checkpoint'
 author:
-  - Fill
-  - Fill
-  - Fill
-  - Fill
-date: "9/27/2021"
+  - FILL ME
+  - FILL ME
+  - FILL ME
+  - FILL ME
+date: "Last updated on `r Sys.Date()`"
 output: 
   rmdformats::readthedown:
     df_print: paged
