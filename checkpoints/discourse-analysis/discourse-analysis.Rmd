@@ -33,6 +33,7 @@ Download each of these articles as PDFs, and then open the PDF in an annotation 
 
 Select three quotes from your analysis that capture a variety of predominant sentiments towards this dataset. Be sure to cite each. Fill them in below. Following each, in 50-100 words, describe how the statement is reflective of broader sentiments towards the dataset. Be sure to distinguish between the author's sentiments towards the dataset, and how the author conveys others' sentiments towards the dataset. 
 
+You're welcome to use the .bib file provided in the resources folder if you would like to use a YAML bibliography.  Be sure to add `bibliography: ./resources/discourse-analysis.bib` to the header along with `csl: ../../resources/chicago-author-date.csl`.
 ---
 
 Example:
