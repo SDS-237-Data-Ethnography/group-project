@@ -1,11 +1,12 @@
 ---
-title: 'SDS 237: Final Project Checkpoint 11 - Discourse Analysis'
+title: 'Discourse Analysis'
+subtitle: 'SDS 237: Final Project Checkpoint'
 author:
   - FILL ME
   - FILL ME
   - FILL ME
   - FILL ME
-date: 10/19/2021
+date: "Last updated on `r Sys.Date()`"
 output: 
   rmdformats::readthedown:
     df_print: paged
@@ -26,7 +27,7 @@ editor_options:
 
 Download each of these articles as PDFs, and then open the PDF in an annotation software. Highlight statements in the article referring to the value, use, or quality of your dataset. In the highlighted statements, underline specific words or phrases in the sentence that shape the tone of the sentence and indicate the author's (or other's) sentiments towards the dataset. Leave a comment next to the underlined word or phrase, indicating the tone that word or phrase suggested. Note that words don't need to be sensationalist or flashy to suggest a tone. Phrases like "according to"  suggest a detached or direct tone. You may wish to reference [this set of "tone" words](https://www.writerswrite.co.za/155-words-to-describe-an-authors-tone/). Finally, circle terms that make up one half of a binary opposition (accurate/inaccurate, bias/unbiased, etc.)
 
-Save these annotated PDFs in the articles folder of this repo. 
+*Save these annotated PDFs in the articles folder of this repo.*
 
 # Part 2: Write-up
 
