@@ -1,6 +1,6 @@
 ---
 title: "Geo-Politics and Chrono-Politics"
-subtitle: 'SDS 237: Final Project Checkpoint '
+subtitle: 'SDS 237: Final Project Checkpoint'
 author:
   - FILL ME
   - FILL ME
