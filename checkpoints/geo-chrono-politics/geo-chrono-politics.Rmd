@@ -1,11 +1,12 @@
 ---
 title: "Geo-Politics and Chrono-Politics"
+subtitle: 'SDS 237: Final Project Checkpoint '
 author:
   - FILL ME
   - FILL ME
   - FILL ME
   - FILL ME
-date: 10/19/2021
+date: "Last updated on `r Sys.Date()`"
 output: 
   rmdformats::readthedown:
     df_print: paged
@@ -25,7 +26,9 @@ When Hurricane Sandy hit NYC in 2012, the City leveraged data about calls New Yo
 
 ```{r}
 #Run. 
+library(tidyverse)
 library(scales)
+library(lubridate)
 nyc311 <- read.csv("https://github.com/lindsaypoirier/STS-115/blob/master/datasets/311_before_2015.csv?raw=true", stringsAsFactors = FALSE) 
 nyc311 %>% head(10)
 ```
@@ -79,7 +82,7 @@ Now, let's consider not just *when* 311 calls were reported but also *where* the
 
 First, we would want to keep in mind that not everyone calls 311, and that it may be the case that certain communities tend to call 311 more than others. Next, we would want to consider which communities actually had capacity to call 311. Note in the map below that one area where fewer calls were reported was in Lower Manhattan - one of the areas of the City hardest hit by the storm. This also happens to be where the greatest power outages were documented following the Hurricane. If people can't charge their phones and computers, how are they going to report to 311?
 
-```{r}
+```{r, warning = FALSE}
 #Run.
 library(leaflet)
 
