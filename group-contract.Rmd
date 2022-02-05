@@ -1,5 +1,5 @@
 ---
-title: "Final Project - Name of your User Guide"
+title: "Group Contract"
 author:
  - Author One
  - Author Two
@@ -7,6 +7,4 @@ author:
  - Author Four
 date: "Last updated on `r Sys.Date()`"
 output: html_document
-bibliography: final-project.bib
-csl: ./resources/chicago-author-date.csl
 ---
