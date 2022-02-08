@@ -107,4 +107,4 @@ There are a number of tutorials online detailing how to create timeseries plots 
 #Fill code here.
 ```
 
-In 100-200 words, explain the geo-politics or chrono-politics represented in this chart. 
+Describe the geo-politics or chrono-politics represented in this chart. 

@@ -16,7 +16,7 @@ editor_options:
 
 ## Overview and Instructions
 
-In this checkpoint, you will import at least one table from your final project dataset into RStudio. I will confirm which dataset you will engage for your final project by 4PM on Tuesday September 28 unless you've submitted your assignment within the grace period (in which case, I will confirm later). You will write some R code to explore the observations and variables in the dataset. Then, referencing data documentation, you will study the definitions underlying the dataset, considering issues such as - What counts as an observation? How are observations counted or measured? How are observations categorized? In other words, in this assignment you will be performing an ethnography of data infrastructure - considering how the standards used to produce this dataset implicates what kinds of narratives we can draw from the data. 
+In this checkpoint, you will import at least one table from your final project dataset into RStudio. You will write some R code to explore the observations and variables in the dataset. Then, referencing data documentation, you will study the definitions underlying the dataset, considering issues such as - What counts as an observation? How are observations counted or measured? How are observations categorized? In other words, in this assignment you will be performing an ethnography of data infrastructure - considering how the standards used to produce this dataset implicates what kinds of narratives we can draw from the data. 
 
 I will provide some examples of the kind of analysis I'm expecting throughout the document using a dataset I work with quite a bit in my research - the Department of Homeland Security's [Prison Boundaries](https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::prison-boundaries/about) dataset. This dataset documents the locations and operating statuses of jails, prisons, and detention centers throughout the US. 
 
@@ -24,7 +24,7 @@ To start, update the YAML header above. In addition, install the following packa
 
 `install.packages("rmdformats")`
 
-The remainder of our checkpoints will be output this way. Knit the document to make sure everything works correctly. Commit your changes. After this commit the file often.  
+The remainder of our checkpoints will be output this way. Knit the document to make sure everything works correctly. Commit your changes. After this, commit the file often.  
 
 ## Load packages
 
@@ -36,15 +36,17 @@ library(tidyverse)
 
 ## Import the data
 
-Find a file for your dataset online (preferably in .csv format) and add it to the `datasets/` folder in this repo. 
+Reference the instructions in under the [Instructions for Loading Datasets into R
+](https://docs.google.com/document/d/1WoHetk8FSgdbpkj0jLctJWpwqIr3qIP_hZkWYLHaDfc/edit?usp=sharing) header to load your dataset into your R environment. Note that some of the datasets are quite large and may take a few moments to load. 
 
 ```{r}
-#Most groups will need the read.csv() function to load your data. If you're unable to download your dataset as a .csv and don't know how to import your data, please send me a DM asap.
-#As a refresher, here is a code template for you to follow:
-#df <- read.csv("datasets/file_name.csv")
-
 prison_boundaries <- read.csv("datasets/Prison_Boundaries.csv")
 ```
+
+```{r}
+#Fill code to load data here.
+```
+
 
 Run some basic summary functions on your dataset to examine the structure. Run `head()` to check out the first six rows of the dataset and `str()` to check out the variable names and their types. 
 
@@ -151,6 +153,8 @@ prison_boundaries %>%
   coord_flip() +
   theme_minimal()
 ```
+
+
 ```{r}
 #Fill code to plot bar charts here. 
 ```

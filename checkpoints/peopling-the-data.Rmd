@@ -18,9 +18,12 @@ editor_options:
 
 This checkpoint is adapted from an experimental ethnographic methods exercise designed by my Ph.D. advisor Kim Fortun (UCI, Anthropology). She called it "peopling a project." The goal will be to draw to the surface the (typically invisible) human labor behind this dataset. Complete parts 1-3 below. Part 4 is optional. Commit your code often, and be sure to push all changes to GitHub.com when you're finished. 
 
-## Part 1: List relevant social groups
+## Part 1: List stakeholders from relevant social groups
 
-To start, create a long list of people that are implicated in the production, aggregation, or circulation of this dataset. List those people below.
+To start, create a long list of people that are implicated in the production, aggregation, or circulation of this dataset. Two important notes:
+
+* Your list should be specific. You should provide more specificity than "data collectors" or "government agency employees" for instance. Try to identify who the data collectors are and what roles at which government agencies are implicated in the data collection. 
+* Be careful not to confuse people with institutions. Congress, for instance, is an institution. Government is an institution. Media is an institution. Identify and name the people within this institution for this exercise. 
 
 1. 
 2. 
@@ -30,9 +33,41 @@ To start, create a long list of people that are implicated in the production, ag
 
 ## Part 2: Map social forces
 
-Copy your list of stakeholders into the center column of the table below. (Add more rows if necessary, by copying a blank row and pasting it below.) In the left column, list social forces that *enable* people to engage in the production, aggregation, or circulation of this data. Examples of social forces include things like: social institutions, cultural norms, education, economics, laws, politics, technology, discourse, language, etc. In the right column, list social forces that *corrode* people's ability to engage in the production, aggregation, or circulation of this data. Some social forces may appear in both columns. The goal of this section is to understand the social force fields the data is situated within. 
+Identify three prominent stakeholders from your list. Each will be the subject of one table below. You may list that stakeholder in the center column. In the left column, list specific social forces that *enable* people in this social group to engage in the production, aggregation, or circulation of this data. Examples of social forces include things like: specific social institutions, cultural norms, forms of education, economics, laws, politics, technology, discourse, language, etc. In the right column, list social forces that *corrode* people's ability to engage in the production, aggregation, or circulation of this data. Some social forces may appear in both columns. The goal of this section is to understand the social force fields the data is situated within. 
 
-| Catalysts.             | Social Groups.             | Corrosions.             |
+### Stakeholder 1
+
+| Catalysts.             | Stakeholder                | Corrosions.             |
+|------------------------|----------------------------|-------------------------|
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+
+### Stakeholder 2
+
+| Catalysts.             | Stakeholder                | Corrosions.             |
+|------------------------|----------------------------|-------------------------|
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+|                        |                            |                         |
+
+### Stakeholder 3
+
+| Catalysts.             | Stakeholder                | Corrosions.             |
 |------------------------|----------------------------|-------------------------|
 |                        |                            |                         |
 |                        |                            |                         |
@@ -48,7 +83,7 @@ Copy your list of stakeholders into the center column of the table below. (Add m
 
 ## Part 3: Profile a social group
 
-Select at least **two** listed social groups. Profile each group below by answering some combination of the following questions. As you are thinking about your responses to these questions refer back to the social forces chart. Consider how social forces both enable and corrode their abilities to engage with the data in the ways they do. Each write-up below should be at least 200 words. 
+Select at least **two** listed social groups. Profile each group below by answering some combination of the following questions. As you are thinking about your responses to these questions refer back to the social forces chart. Consider how social forces both enable and corrode their abilities to engage with the data in the ways they do.
 
 * How are their bodies implicated in the production of the data? What senses do they engage in their work with the data? What kinds of movements and exertions must they make in relation to the data?
 * What do their day-to-day jobs look like or entail?

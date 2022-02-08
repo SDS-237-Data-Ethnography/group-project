@@ -14,39 +14,61 @@ editor_options:
   chunk_output_type: inline
 ---
 
-## Part 1: Stakeholder Mapping
+## Purpose and Instructions
 
-> Note that this part is to set up your thinking and analysis, and will likely not appear in the final user guide.
+This checkpoint aims to document the institutions involved in the production and shaping of your final project dataset. Be sure to commit your code often and push your changes to GitHub. 
 
-Last week, you characterized at least two social groups implicated in your dataset. For each of these social groups, complete the claim below. This is going to feel reductionist, and it is, but go with it for now. 
+## Part 1: Institution Mapping
 
-1. ______ has [high/low] influence over the data, and [high/low] interest in the data. 
-2. ______ has [high/low] influence over the data, and [high/low] interest in the data.
+Below create long lists of institutions involved in each phase of the dataset's production. You should do some research to track down the names of specific government offices, private companies, or other partners involved in each phase. In other words, your list should be more specific than "news outlets" or "legislatures." 
 
-
-Refer back to the causal argument frames we discussed on Tuesday. Select one frame, and use it to detail the *reasons* why this stakeholder has this degree influence over or interest in the data. Feel free to bullet this section, but I encourage you to think carefully and critically here, offering more than single word bullets. 
-
-Stakeholder 1:
+### Data Infrastructure Creation
 
 * 
-* 
-* 
-* 
-* 
 
-Stakeholder 2:
+### Data Collection
 
 * 
+
+### Data Cleaning
+
 * 
+
+### Data Aggregation
+
 * 
+
+### Data Analysis
+
 * 
+
+### Data Dissemination
+
 * 
+
+### Data Consumption
+
+* 
+
 
 ## Part 2: Identify institutions
 
-After reviewing your causal arguments, identify at least four institutions that have some degree of influence over the things that people say or do in relation to the data, in other words, their interest or their influence. At least one stakeholder should be the agency that oversees the data collection, or a specific office within that agency. List those institutions below, and for each describe their role in the production or stewardship of the data in about 100 words. You might consider the ways in which this institution incentivizes people involved in data production to collect the data in specific ways, the protocols they enforce regarding data collection, etc. This text *will* appear in the final user guide, so to reduce the need for revision later, you may consider how to write this section with the user guide's audience in mind. 
+Select **three** institutions from your list that appear to have the largest influences over the final configuration and scope of the data. For each describe their role in the production or stewardship of the data. You might consider the ways in which this institution incentivizes people involved in data production to collect the data in specific ways, the protocols they enforce regarding data collection, etc. Specific questions you might consider include:
 
-1. 
-2. 
-3. 
-4. 
+* What is the institution's stated mission? How does this stated mission relate to their data work?
+* How is the data work this institution engages in funded?
+* What technical infrastructures enable the institution to carry out this data work?
+* How transparent is the institution's data work?
+* What legal and ethical bodies and infrastructures oversee how this institution conducts their data work?
+* What repercussions might this institution face if they were to mishandle the data?
+
+### Institution 1:
+
+
+### Institution 2:
+
+
+### Institution 3:
+
+
+### Institution 4 (optional):
