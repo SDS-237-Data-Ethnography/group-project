@@ -14,22 +14,17 @@ editor_options:
   chunk_output_type: inline
 ---
 
-# Part 1: Find six news articles that reference your dataset on [AllSides.org](https://www.allsides.com/unbiased-balanced-news). 
+## Purpose and Instructions
 
-| Article Title | News Source | Link | Lean according to AllSides (LL/L/C/R/RR) |
-|---------------|-------------|------|------------------------------------------|
-| A             |             |      |                                          |
-| B             |             |      |                                          |
-| C             |             |      |                                          |
-| D             |             |      |                                          |
-| E             |             |      |                                          |
-| F             |             |      |                                          |
+This checkpoint aims to document some of the dominant discourses that shape your final project dataset. Be sure to commit your code often and push your changes to GitHub. 
 
-Download each of these articles as PDFs, and then open the PDF in an annotation software. Highlight statements in the article referring to the value, use, or quality of your dataset. In the highlighted statements, underline specific words or phrases in the sentence that shape the tone of the sentence and indicate the author's (or other's) sentiments towards the dataset. Leave a comment next to the underlined word or phrase, indicating the tone that word or phrase suggested. Note that words don't need to be sensationalist or flashy to suggest a tone. Phrases like "according to"  suggest a detached or direct tone. You may wish to reference [this set of "tone" words](https://www.writerswrite.co.za/155-words-to-describe-an-authors-tone/). Finally, circle terms that make up one half of a binary opposition (accurate/inaccurate, bias/unbiased, etc.)
+## Part 1: Identify Discursive Sites
+
+Find six news articles, blog posts, op-eds, etc. that reference your dataset. Pay attention to the political lean of the publication. Download each as PDFs, and then open the PDF in an annotation software. Highlight statements in the article referring to the value, use, or quality of your dataset. In the highlighted statements, underline specific words or phrases in the sentence that shape the tone of the sentence and indicate the author's (or other's) sentiments towards the dataset. Leave a comment next to the underlined word or phrase, indicating the tone that word or phrase suggested. Note that words don't need to be sensationalist or flashy to suggest a tone. Phrases like "according to"  suggest a detached or direct tone. You may wish to reference [this set of "tone" words](https://www.writerswrite.co.za/155-words-to-describe-an-authors-tone/). Finally, circle terms that make up one half of a binary opposition (accurate/inaccurate, bias/unbiased, etc.)
 
 *Save these annotated PDFs in the articles folder of this repo.*
 
-# Part 2: Analyze Three Quotes
+## Part 2: Analyze Three Quotes
 
 Select three quotes from your analysis that capture a variety of predominant sentiments towards this dataset. Be sure to cite each. Fill them in below. Following each, write a short caption to describe how the statement is reflective of broader sentiments towards the dataset. Be sure to distinguish between the author's sentiments towards the dataset, and how the author conveys others' sentiments towards the dataset. 
 
@@ -52,10 +47,16 @@ So while the data is often cast in a revelatory way, it is also critiqued for it
 
 ---
 
-> FILL ME
+### Quote 1
 
-> FILL ME
+**Fill your response here.**
 
-> FILL ME
+### Quote 2
+
+**Fill your response here.**
+
+### Quote 3
+
+**Fill your response here.**
 
 

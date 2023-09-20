@@ -16,74 +16,39 @@ editor_options:
 
 ## Purpose and Instructions
 
-This checkpoint is adapted from an experimental ethnographic methods exercise designed by my Ph.D. advisor Kim Fortun (UCI, Anthropology). She called it "peopling a project." The goal will be to draw to the surface the (typically invisible) human labor behind this dataset. Complete parts 1-3 below. Part 4 is optional. Commit your code often, and be sure to push all changes to GitHub.com when you're finished. 
+This checkpoint is adapted from an experimental ethnographic methods exercise designed by my Ph.D. advisor Kim Fortun (UCI, Anthropology). She called it "peopling a project." The goal will be to draw to the surface the (typically invisible) human labor behind this dataset. Complete parts 1 and 2 below. Commit your code often, and be sure to push all changes to GitHub.com when you're finished. 
 
 ## Part 1: List stakeholders from relevant social groups
 
-To start, create a long list of people that are implicated in the production, aggregation, or circulation of this dataset. Two important notes:
+To start, create a long list of people that are implicated in the production, aggregation, or circulation of this dataset. It can be really difficult to find people associated with a data collection program. Here are three strategies for "peopling this dataset".
+
+- Start at LinkedIn. Enter the name of your dataset in quotation marks (e.g. "National Bridge Inventory") in the search bar. What kind of positions come up? 
+- Search Google News for your dataset in quotation marks. What kinds of people are quoted in news articles about the dataset?
+- Search Twitter for your dataset in quotation marks. What kinds of people are tweeting about the dataset?
+- Check to see if there is an organization chart for the agency that runs the dataset. Can you figure out where the dataset is managed, and who runs that program?
+
+Two important notes:
 
 * Your list should be specific. You should provide more specificity than "data collectors" or "government agency employees" for instance. Try to identify who the data collectors are and what roles at which government agencies are implicated in the data collection. 
-* Be careful not to confuse people with institutions. Congress, for instance, is an institution. Government is an institution. Media is an institution. Identify and name the people within this institution for this exercise. 
+* While you should be specific, you don't need to list actual human names. You might list a person's role (e.g. statistician at the EPA)
+* Be careful not to confuse people with institutions. Congress, for instance, is an institution. Government is an institution. Identify and name a specific type of person within this institution for this exercise. 
 
 1. 
 2. 
 3. 
 4. 
-...
+5. 
+6. 
+7. 
+8.
+9.
+10. 
 
-## Part 2: Map social forces
+## Part 2: Profile a social group
 
-Identify three prominent stakeholders from your list. Each will be the subject of one table below. You may list that stakeholder in the center column. In the left column, list specific social forces that *enable* people in this social group to engage in the production, aggregation, or circulation of this data. Examples of social forces include things like: specific social institutions, cultural norms, forms of education, economics, laws, politics, technology, discourse, language, etc. In the right column, list social forces that *corrode* people's ability to engage in the production, aggregation, or circulation of this data. Some social forces may appear in both columns. The goal of this section is to understand the social force fields the data is situated within. 
+Select at least **three** listed social groups. Profile each group below by answering some combination of the questions belows. You should aim to write 200 words per social group. 
 
-### Stakeholder 1
-
-| Catalysts.             | Stakeholder                | Corrosions.             |
-|------------------------|----------------------------|-------------------------|
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-
-### Stakeholder 2
-
-| Catalysts.             | Stakeholder                | Corrosions.             |
-|------------------------|----------------------------|-------------------------|
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-
-### Stakeholder 3
-
-| Catalysts.             | Stakeholder                | Corrosions.             |
-|------------------------|----------------------------|-------------------------|
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-|                        |                            |                         |
-
-
-## Part 3: Profile a social group
-
-Select at least **two** listed social groups. Profile each group below by answering some combination of the following questions. As you are thinking about your responses to these questions refer back to the social forces chart. Consider how social forces both enable and corrode their abilities to engage with the data in the ways they do.
+> I encourage you not to make assumptions about a particular social group, but to search for relevant literature, media, or data pertaining to this social group. To enrich this section of the document, you may find YouTube videos of these individuals at work or speaking at a conference or with a news anchor. Feel free to embed those in the Markdown. Alternatively, you might find training guides or protocols directed at these social groups. Or maybe you'll track down Glassdoor profiles that depict information about their jobs. You might also check out data published by the [Bureau of Labor Statistics](https://www.bls.gov/oes/current/oes_stru.htm#17-0000) about typical compensation for these jobs broken down by demographic indicators. Be sure to cite all sources.
 
 * How are their bodies implicated in the production of the data? What senses do they engage in their work with the data? What kinds of movements and exertions must they make in relation to the data?
 * What do their day-to-day jobs look like or entail?
@@ -96,31 +61,21 @@ Select at least **two** listed social groups. Profile each group below by answer
 * How do people in this social group identify themselves?
 * What is the demographic make-up of the social group?
 
-I encourage you not to make assumptions about a particular social group, but to search for relevant literature, media, or data pertaining to this social group. To enrich this section of the document, you may find YouTube videos of these individuals at work or speaking at a conference or with a news anchor. Feel free to embed those in the Markdown. Alternatively, you might find training guides or protocols directed at these social groups. Or maybe you'll track down Glassdoor profiles that depict information about their jobs. You might also check out data published by the [Bureau of Labor Statistics](https://www.bls.gov/oes/current/oes_stru.htm#17-0000) about typical compensation for these jobs broken down by demographic indicators. Be sure to cite all sources.
 
 ### Social group 1:
 
+**Fill your response here.**
 
 ### Social group 2:
 
+**Fill your response here.**
 
-### Social group 3 (optional):
+### Social group 3:
+
+**Fill your response here.**
 
 
 ### Social group 4 (optional):
 
 
-## Part 4: Bonus! This section is optional. 
-
-Select a few variables in the dataset where we can see traces of the humans that collected or aggregated the data. (Note that we could make a case that there are traces of the human in all of the variables, but let's just focus on ones more relevant.) Import and clean your data and find a way to creatively visualize the human traces in that variable. 
-
-```{r}
-#library(tidyverse)
-#Import here
-#Clean here
-```
-
-```{r}
-#Visualize here
-```
 
